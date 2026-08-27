@@ -17,7 +17,7 @@
 
 <h2>◈ Contact Me</h2>
 <p>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:imminent11225@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail">
   </a>
   <a href="https://www.leetcode.com/smokx">
